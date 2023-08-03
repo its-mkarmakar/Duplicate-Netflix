@@ -1,5 +1,3 @@
-Sure, I can help you write the GitHub README content for your Netflix front page clone. A good README should provide an overview of your project, explain how to set it up and run it, and include any other relevant information for users and potential contributors. Here's a template you can use as a starting point:
-
 # Netflix Front Page Clone
 
 A clone of the Netflix front page created using HTML, CSS, and JavaScript.
