@@ -10,7 +10,6 @@ The Duplicate Netflix project aims to replicate the visual design and functional
 
 - **Responsive Design:** The clone is designed to be responsive, allowing users to access the Netflix front page on various devices with different screen sizes.
 - **Search Functionality:** Users can search for any movies & webseries by entering keywords in the search bar. The clone retrieves results from a predefined list of videos, providing a search experience similar to that of Netflix.
-- **Recommended Movies & Webseries:** The clone also showcases a list of recommended videos based on the user's browsing history or preferences, adding a personalized touch to the browsing experience.
 
 ## Demo
 
@@ -32,7 +31,7 @@ Once you have the project set up, you can interact with the Netflix Front Page C
 1. Open the cloned repository on your local machine.
 2. Navigate to the project folder.
 3. Open the `index.html` file in your web browser.
-4. Explore the clone by clicking on video thumbnails, using the search bar to discover videos, or browsing the recommended videos section.
+4. Explore all over the clone.
 
 ## Contributing
 
