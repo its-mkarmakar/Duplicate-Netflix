@@ -15,7 +15,7 @@ The Duplicate Netflix project aims to replicate the visual design and functional
 
 ## Demo
 
-Check out the live demo of the Netflix Front Page Clone [here](https://duplicate-youtub.netlify.app/).
+Check out the live demo of the Netflix Front Page Clone [here](https://its-mkarmakar.github.io/Duplicate-Netflix/).
 
 ## Installation
 
