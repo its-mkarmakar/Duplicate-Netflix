@@ -9,7 +9,7 @@ The Duplicate Netflix project aims to replicate the visual design and functional
 ## Features
 
 - **Responsive Design:** The clone is designed to be responsive, allowing users to access the Netflix front page on various devices with different screen sizes.
-- **Search Functionality:** Users can search for videos by entering keywords in the search bar. The clone retrieves results from a predefined list of videos, providing a search experience similar to that of Netflix.
+- **Search Functionality:** Users can search for any movies & webseries by entering keywords in the search bar. The clone retrieves results from a predefined list of videos, providing a search experience similar to that of Netflix.
 - **Recommended Movies & Webseries:** The clone also showcases a list of recommended videos based on the user's browsing history or preferences, adding a personalized touch to the browsing experience.
 
 ## Demo
