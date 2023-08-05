@@ -15,7 +15,7 @@ The Duplicate Netflix project aims to replicate the visual design and functional
 
 ## Demo
 
-Check out the live demo of the YouTube Front Page Clone [here](https://duplicate-youtub.netlify.app/).
+Check out the live demo of the Netflix Front Page Clone [here](https://duplicate-youtub.netlify.app/).
 
 ## Installation
 
@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 3. Open the `index.html` file in your preferred web browser.
 ## Usage
 
-Once you have the project set up, you can interact with the YouTube Front Page Clone as follows:
+Once you have the project set up, you can interact with the Netflix Front Page Clone as follows:
 
 1. Open the cloned repository on your local machine.
 2. Navigate to the project folder.
