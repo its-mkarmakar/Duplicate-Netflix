@@ -18,9 +18,11 @@ Check out the live demo of the Netflix Front Page Clone [here](https://its-mkarm
 ## Installation
 
 To run this project locally, follow these steps:
-
 1. Clone the repository:
-
+    ```bash
+    git clone https://github.com/its-mkarmakar/Temperature-Converter.git
+    cd Temperature-Converter
+    ```
 2. Navigate to the project folder:
 
 3. Open the `index.html` file in your preferred web browser.
